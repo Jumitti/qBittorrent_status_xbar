@@ -1,0 +1,1 @@
+# qBittorrent_status_xbar
